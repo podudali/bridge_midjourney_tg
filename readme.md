@@ -1,0 +1,1 @@
+bridge between discord and telegram. Not over yet, I dont have API from midjourney.
